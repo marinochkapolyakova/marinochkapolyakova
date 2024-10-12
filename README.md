@@ -1,5 +1,4 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=700&color=F785F3&background=FFFFFF00&vCenter=true&random=false&width=435&lines=Hi!+I'm+a+beginner+data+analyst." alt="Typing SVG" /></a>
-<h3 align="left">В настоящее время нахожусь в активном поиске работы.</h3>
 <a href="https://t.me/marinochkapolyakova" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /> </a> <a href="https://spb.hh.ru/resume/12894afdff0be4ed4b0039ed1f4f4151364532" target="_blank"> <img src="https://img.shields.io/badge/hh.ru-B92B27?style=for-the-badge&logo=headhunter&logoColor=white" alt="hh.ru" /> </a> </p>
 
 <h3>Стек технологий:</h3>
