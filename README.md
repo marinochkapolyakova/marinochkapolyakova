@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=700&color=F785F3&background=FFFFFF00&vCenter=true&random=false&width=435&lines=Hi!+I'm+a+junior+data+analyst." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=700&color=F785F3&background=FFFFFF00&vCenter=true&random=false&width=435&lines=Hi!+I'm+a+data+analyst." alt="Typing SVG" /></a>
 
 <a href="https://t.me/marinochkapolyakova" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /> </a> </p>
 
